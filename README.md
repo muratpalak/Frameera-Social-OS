@@ -1,5 +1,15 @@
 # ✦ Frameera Social OS
 
+<!-- BEGIN: REAL APPLICATION PREVIEW -->
+
+## Interface preview / Benutzeroberfläche
+
+![Frameera Social OS demonstration dashboard](docs/dashboard-preview.png)
+
+> Screenshot captured from the **running application with fictional/demo data**. This is a locally hosted portfolio demo, not a production deployment. / *Echter Screenshot aus der lokal gestarteten Demo mit Beispieldaten.*
+
+<!-- END: REAL APPLICATION PREVIEW -->
+
 <!-- BEGIN: INTERNATIONAL PORTFOLIO SUMMARY -->
 
 [![CI status](https://github.com/muratpalak/Frameera-Social-OS/actions/workflows/tests.yml/badge.svg)](https://github.com/muratpalak/Frameera-Social-OS/actions/workflows/tests.yml)
