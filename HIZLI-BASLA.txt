@@ -1,0 +1,22 @@
+FRAMEERA SOCIAL OS — HIZLI BASLANGIC
+
+MAC
+1. ZIP arsivini acin.
+2. Node.js 20+ ve Python 3.10+ kurulu olmali.
+3. START-MAC.command dosyasina cift tiklayin.
+4. Guvenlik uyarisi olursa Terminal'den: bash START-MAC.command
+5. Panel: http://127.0.0.1:5173
+
+WINDOWS
+START-WINDOWS.bat dosyasini calistirin. Panel: http://127.0.0.1:5173
+
+ILK CALISTIRMA: npm ve pip paketleri internetten indirilir.
+
+UYARI: Bu surum yerel bir planlama uygulamasidir. Gercek sosyal medya
+hesaplarina otomatik baglanma, otomatik paylasim ve canli analiz yoktur.
+Gorunen ornek istatistikler gercek musteri sonuclari degildir.
+
+Yerel verilerinizi silmeyin: backend/data/ icindeki veritabani ve yuklemeler.
+Bu klasorun GitHub'a yuklenmesini .gitignore engeller.
+
+KURULUM BELGELERI: README_TR.md ve README.md
