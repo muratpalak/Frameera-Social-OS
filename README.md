@@ -1,5 +1,20 @@
 # ✦ Frameera Social OS
 
+<!-- BEGIN: INTERNATIONAL PORTFOLIO SUMMARY -->
+
+[![CI status](https://github.com/muratpalak/Frameera-Social-OS/actions/workflows/tests.yml/badge.svg)](https://github.com/muratpalak/Frameera-Social-OS/actions/workflows/tests.yml)
+
+**International portfolio overview / Internationale Projektübersicht**
+
+**EN:** Local-first multi-client content planning system with media library, manual reporting and multilingual UI. **Tech:** React · TypeScript · FastAPI · SQLite. This is a portfolio/demo project; read its limitations before real-world use.
+
+**DE:** Lokal betriebenes Multi-Client-System für Content-Planung, Medienbibliothek und manuelles Reporting.
+
+**[Technical case study / Technische Projektbeschreibung](docs/PORTFOLIO_CASE_STUDY.md)** · [Automated checks](https://github.com/muratpalak/Frameera-Social-OS/actions/workflows/tests.yml)
+
+<!-- END: INTERNATIONAL PORTFOLIO SUMMARY -->
+
+
 **A glass-styled, local-first multi-client social media workspace** built with React, TypeScript, FastAPI and SQLite.
 
 > **v1.0 — Functional local MVP.** Scheduling is editorial (a planning calendar), not automatic publishing. Live analytics, OAuth account linking, and platform APIs are **not** implemented. The starter database contains clearly labeled demo metrics and demo posts.
